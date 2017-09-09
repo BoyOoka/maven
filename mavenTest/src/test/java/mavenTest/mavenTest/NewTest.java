@@ -1,4 +1,4 @@
-package mavenTest2.mavenTest2;
+package mavenTest.mavenTest;
 
 import static org.testng.Assert.assertEquals;
 

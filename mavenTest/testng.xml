@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="mavenTest2.mavenTest2.NewTest"/>
+      <class name="mavenTest.mavenTest.NewTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

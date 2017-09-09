@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7229" started-at="2017-09-09T08:08:37Z" finished-at="2017-09-09T08:08:44Z">
+  <suite name="Suite" duration-ms="6246" started-at="2017-09-09T08:22:48Z" finished-at="2017-09-09T08:22:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7229" started-at="2017-09-09T08:08:37Z" finished-at="2017-09-09T08:08:44Z">
-      <class name="mavenTest2.mavenTest2.NewTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenTest2.mavenTest2.NewTest@5442a311]" name="beforeClass" is-config="true" duration-ms="2671" started-at="2017-09-09T16:08:37Z" finished-at="2017-09-09T16:08:40Z">
+    <test name="Test" duration-ms="6246" started-at="2017-09-09T08:22:48Z" finished-at="2017-09-09T08:22:55Z">
+      <class name="mavenTest.mavenTest.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenTest.mavenTest.NewTest@548e7350]" name="beforeClass" is-config="true" duration-ms="2333" started-at="2017-09-09T16:22:48Z" finished-at="2017-09-09T16:22:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:mavenTest2.mavenTest2.NewTest@5442a311]" name="test1" duration-ms="3552" started-at="2017-09-09T16:08:40Z" finished-at="2017-09-09T16:08:43Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:mavenTest.mavenTest.NewTest@548e7350]" name="test1" duration-ms="3168" started-at="2017-09-09T16:22:51Z" finished-at="2017-09-09T16:22:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenTest2.mavenTest2.NewTest@5442a311]" name="afterClass" is-config="true" duration-ms="959" started-at="2017-09-09T16:08:43Z" finished-at="2017-09-09T16:08:44Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenTest.mavenTest.NewTest@548e7350]" name="afterClass" is-config="true" duration-ms="718" started-at="2017-09-09T16:22:54Z" finished-at="2017-09-09T16:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- mavenTest2.mavenTest2.NewTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- mavenTest.mavenTest.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
