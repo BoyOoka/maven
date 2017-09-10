@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6464" started-at="2017-09-09T08:48:57Z" finished-at="2017-09-09T08:49:04Z">
+  <suite name="Suite" duration-ms="21286" started-at="2017-09-10T06:52:58Z" finished-at="2017-09-10T06:53:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6464" started-at="2017-09-09T08:48:57Z" finished-at="2017-09-09T08:49:04Z">
-      <class name="mavenTest.mavenTest.NewTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenTest.mavenTest.NewTest@51cdd8a]" name="beforeClass" is-config="true" duration-ms="2640" started-at="2017-09-09T16:48:57Z" finished-at="2017-09-09T16:49:00Z">
+    <test name="Test" duration-ms="21286" started-at="2017-09-10T06:52:58Z" finished-at="2017-09-10T06:53:19Z">
+      <class name="mavenTest.mavenTest.ecshopTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="beforeClass" is-config="true" duration-ms="2667" started-at="2017-09-10T14:53:05Z" finished-at="2017-09-10T14:53:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:mavenTest.mavenTest.NewTest@51cdd8a]" name="test1" duration-ms="3156" started-at="2017-09-09T16:49:00Z" finished-at="2017-09-09T16:49:03Z">
+        <test-method status="PASS" signature="login()[pri:1, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="login" duration-ms="977" started-at="2017-09-10T14:53:07Z" finished-at="2017-09-10T14:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="serch()[pri:2, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="serch" duration-ms="2283" started-at="2017-09-10T14:53:08Z" finished-at="2017-09-10T14:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serch -->
+        <test-method status="PASS" signature="delivery()[pri:3, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="delivery" duration-ms="6088" started-at="2017-09-10T14:53:10Z" finished-at="2017-09-10T14:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delivery -->
+        <test-method status="PASS" signature="confirmgoods()[pri:4, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="confirmgoods" duration-ms="1811" started-at="2017-09-10T14:53:17Z" finished-at="2017-09-10T14:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmgoods -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenTest.mavenTest.ecshopTest@1e965684]" name="afterClass" is-config="true" duration-ms="646" started-at="2017-09-10T14:53:18Z" finished-at="2017-09-10T14:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mavenTest.mavenTest.ecshopTest -->
+      <class name="mavenTest.mavenTest.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenTest.mavenTest.NewTest@167fdd33]" name="beforeClass" is-config="true" duration-ms="2565" started-at="2017-09-10T14:52:58Z" finished-at="2017-09-10T14:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:mavenTest.mavenTest.NewTest@167fdd33]" name="test1" duration-ms="3377" started-at="2017-09-10T14:53:00Z" finished-at="2017-09-10T14:53:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenTest.mavenTest.NewTest@51cdd8a]" name="afterClass" is-config="true" duration-ms="645" started-at="2017-09-09T16:49:03Z" finished-at="2017-09-09T16:49:04Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenTest.mavenTest.NewTest@167fdd33]" name="afterClass" is-config="true" duration-ms="825" started-at="2017-09-10T14:53:04Z" finished-at="2017-09-10T14:53:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

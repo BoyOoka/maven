@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.159">
+  <properties />
+  
+  
+            <testcase name="serch" time="2.283" classname="mavenTest.mavenTest.ecshopTest" />
+                <testcase name="confirmgoods" time="1.811" classname="mavenTest.mavenTest.ecshopTest" />
+                <testcase name="delivery" time="6.088" classname="mavenTest.mavenTest.ecshopTest" />
+                <testcase name="login" time="0.977" classname="mavenTest.mavenTest.ecshopTest" />
+      
+</testsuite>

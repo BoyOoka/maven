@@ -5,9 +5,18 @@
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
   </listeners>
-  <test name="Test">
+  <test name="Test(failed)">
     <classes>
-      <class name="mavenTest.mavenTest.NewTest"/>
+      <class name="mavenTest.mavenTest.ecshopTest">
+        <methods>
+          <include name="serch"/>
+          <include name="delivery"/>
+          <include name="confirmgoods"/>
+          <include name="beforeClass"/>
+          <include name="login"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mavenTest.mavenTest.ecshopTest -->
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -3,6 +3,7 @@
   <test name="Test">
     <classes>
       <class name="mavenTest.mavenTest.NewTest"/>
+      <class name="mavenTest.mavenTest.ecshopTest"/>
     </classes>
   </test> <!-- Test -->
   <listeners>
