@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.377">
+           time="3.853">
   <properties />
   
   
-            <testcase name="test1" time="3.377" classname="mavenTest.mavenTest.NewTest" />
+            <testcase name="test1" time="3.853" classname="mavenTest.mavenTest.NewTest" />
       
 </testsuite>

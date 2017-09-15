@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="gayatekiMacBook-Air.local" name="mavenTest.mavenTest.AppTest" skipped="0" tests="1" time="0.414" timestamp="2017-09-11T11:32:36">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="env.XPC_SERVICE_NAME" value="0" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes" />
+    <property name="env.TMPDIR" value="/var/folders/g7/2dxdpw113910gp0svljgwr6h0000gn/T/" />
+    <property name="env.PWD" value="/Users/gaya/git/mavenTest/mavenTest" />
+    <property name="env.LANG" value="zh_CN.UTF-8" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/Users/gaya/apache-ant-1.10.1" />
+    <property name="java.runtime.version" value="1.8.0_131-b11" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.xOHw5ksvDp/Render" />
+    <property name="user.name" value="gaya" />
+    <property name="env.USER" value="gaya" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x19:0x34" />
+    <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:export path=/System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/gaya/Library/Android/sdkE/tools:/Users/gaya/Library/Android/sdkE/tools/bin:/Users/gaya/Library/Android/sdkE/platform-tools:/Users/gaya/Library/Android/sdkE/build-tools/26.0.0:/usr/bin:$/Users/gaya/bin/chromedriver:/Applications/Xcode.app/Contents/MacOS/:/Applications/Xcode8.3.app/Contents/MacOS/:/usr/local/mysql/bin:/Users/gaya/Documents/apache-maven-3.5.0/bin:/Users/gaya/apache-ant-1.10.1/bin" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="env.XPC_FLAGS" value="0x0" />
+    <property name="ant.project.name" value="mavenTest" />
+    <property name="java.version" value="1.8.0_131" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local„ÄÅ169.254/16|*.local„ÄÅ169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="ant.file.mavenTest" value="/Users/gaya/git/mavenTest/mavenTest/build.xml" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.SHLVL" value="1" />
+    <property name="ECLIPSE_HOME" value="../../../../../Applications/Eclipse.app/Contents/Eclipse/" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre" />
+    <property name="env.ANDROID_HOME" value="/Users/gaya/Library/Android/sdkE" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.LOGNAME" value="gaya" />
+    <property name="ant.file" value="/Users/gaya/git/mavenTest/mavenTest/build.xml" />
+    <property name="os.version" value="10.12.6" />
+    <property name="env.TERM_PROGRAM_VERSION" value="388.1.1" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="25.131-b11" />
+    <property name="ant.library.dir" value="/Users/gaya/apache-ant-1.10.1/lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="env.TERM" value="xterm-256color" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="ant.file.type.mavenTest" value="file" />
+    <property name="env.JAVA_MAIN_CLASS_4902" value="org.apache.tools.ant.launch.Launcher" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local„ÄÅ169.254/16|*.local„ÄÅ169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local„ÄÅ169.254/16|*.local„ÄÅ169.254/16" />
+    <property name="user.home" value="/Users/gaya" />
+    <property name="target" value="1.5" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.TERM_PROGRAM" value="Apple_Terminal" />
+    <property name="env.M2_HOME" value="/Users/gaya/Documents/apache-maven-3.5.0" />
+    <property name="java.library.path" value="/Users/gaya/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner mavenTest.mavenTest.AppTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/gaya/git/mavenTest/mavenTest/junit/TEST-mavenTest.mavenTest.AppTest.xml crashfile=/Users/gaya/git/mavenTest/mavenTest/junitvmwatcher2838523025670830377.properties propsfile=/Users/gaya/git/mavenTest/mavenTest/junit6096354910089381127.properties" />
+    <property name="java.class.path" value="/Users/gaya/git/mavenTest/mavenTest/target/classes:/Users/gaya/git/mavenTest/mavenTest/target/test-classes:/Users/gaya/Documents/repository/org/testng/testng/6.11/testng-6.11.jar:/Users/gaya/Documents/repository/com/beust/jcommander/1.64/jcommander-1.64.jar:/Users/gaya/Documents/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-java/3.5.3/selenium-java-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-api/3.5.3/selenium-api-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.5.3/selenium-chrome-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-edge-driver/3.5.3/selenium-edge-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.5.3/selenium-firefox-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-ie-driver/3.5.3/selenium-ie-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-opera-driver/3.5.3/selenium-opera-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-remote-driver/3.5.3/selenium-remote-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-safari-driver/3.5.3/selenium-safari-driver-3.5.3.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/selenium-support/3.5.3/selenium-support-3.5.3.jar:/Users/gaya/Documents/repository/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar:/Users/gaya/Documents/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/gaya/Documents/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/gaya/Documents/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/gaya/Documents/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/gaya/Documents/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/gaya/Documents/repository/org/w3c/css/sac/1.3/sac-1.3.jar:/Users/gaya/Documents/repository/net/sourceforge/cssparser/cssparser/0.9.23/cssparser-0.9.23.jar:/Users/gaya/Documents/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/Users/gaya/Documents/repository/com/google/guava/guava/23.0/guava-23.0.jar:/Users/gaya/Documents/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/gaya/Documents/repository/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar:/Users/gaya/Documents/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/gaya/Documents/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/gaya/Documents/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/gaya/Documents/repository/net/sourceforge/htmlunit/htmlunit/2.27/htmlunit-2.27.jar:/Users/gaya/Documents/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.27/htmlunit-core-js-2.27.jar:/Users/gaya/Documents/repository/net/sourceforge/htmlunit/neko-htmlunit/2.27/neko-htmlunit-2.27.jar:/Users/gaya/Documents/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/gaya/Documents/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/gaya/Documents/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/jetty-client/9.4.5.v20170502/jetty-client-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/jetty-http/9.4.5.v20170502/jetty-http-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/jetty-io/9.4.5.v20170502/jetty-io-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/jetty-util/9.4.5.v20170502/jetty-util-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar:/Users/gaya/Documents/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar:/Users/gaya/Documents/repository/com/codeborne/phantomjsdriver/1.4.0/phantomjsdriver-1.4.0.jar:/Users/gaya/Documents/repository/org/seleniumhq/selenium/htmlunit-driver/2.27/htmlunit-driver-2.27.jar:/Users/gaya/Documents/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/websocket/websocket-api/9.4.5.v20170502/websocket-api-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/websocket/websocket-client/9.4.5.v20170502/websocket-client-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/org/eclipse/jetty/websocket/websocket-common/9.4.5.v20170502/websocket-common-9.4.5.v20170502.jar:/Users/gaya/Documents/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar:/Users/gaya/Documents/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar:/Users/gaya/Documents/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar:/Users/gaya/Documents/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar:/Users/gaya/Documents/repository/junit/junit/4.12/junit-4.12.jar:/Users/gaya/Documents/repository/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar:/Users/gaya/Documents/repository/velocity/velocity/1.4/velocity-1.4.jar:/Users/gaya/Documents/repository/velocity/velocity-dep/1.4/velocity-dep-1.4.jar:/Users/gaya/Documents/repository/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.jar:/Users/gaya/Documents/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/gaya/Documents/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/gaya/apache-ant-1.10.1/lib/ant-launcher.jar:/Users/gaya/apache-ant-1.10.1/lib/ant.jar:/Users/gaya/apache-ant-1.10.1/lib/ant-junit.jar:/Users/gaya/apache-ant-1.10.1/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="env.TERM_SESSION_ID" value="DE01D889-B20D-4712-80C2-E55136D293FB" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.HOME" value="/Users/gaya" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="/Users/gaya/apache-ant-1.10.1" />
+    <property name="java.io.tmpdir" value="/var/folders/g7/2dxdpw113910gp0svljgwr6h0000gn/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.zhrL1IO7VW/Listeners" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.ext.dirs" value="/Users/gaya/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/gaya/git/mavenTest/mavenTest" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/gaya/git/mavenTest/mavenTest" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="/Users/gaya/apache-ant-1.10.1/lib/ant.jar" />
+    <property name="source" value="1.5" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="mavenTest.mavenTest" />
+  </properties>
+  <testcase classname="mavenTest.mavenTest.AppTest" name="testApp" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
